@@ -1,4 +1,4 @@
-# guia-git
+# guia-git-(título)
 Guía de git con comandos fundamentales y explicaciones detalladas.
 
 ## Descripción con 2 hashtags
