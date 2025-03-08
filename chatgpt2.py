@@ -1,1 +1,4 @@
-#boorré el EL ARCHIVO DESDE EL REPOSITORIO REMOTO. ESTO ES UN INVENTO DEL GOBIERNO
+n1 = 2
+n2 = 41
+suma = n1 + n2
+print(suma)
