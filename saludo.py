@@ -1,3 +1,4 @@
-nombre = "TROLEADOR CARA, na mentira, me llamos Alexander Llanos"
+nombre = "Alexander Matías Llanos"
+#conservo el nombre completo que es incoming, desde el remoto
 saludo = f"Hola ¡{nombre}!"
 print(saludo) 
